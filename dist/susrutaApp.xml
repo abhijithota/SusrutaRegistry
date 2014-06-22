@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Abhijit\Documents\NetBeansProjects\SusrutaApp\dist\SusrutaApp.jar</jar>
+  <outfile>C:\Users\Abhijit\Documents\NetBeansProjects\SusrutaApp\dist\susrutaApp.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Abhijit\Documents\Torrents\building.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
